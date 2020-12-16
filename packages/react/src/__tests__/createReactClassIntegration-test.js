@@ -15,7 +15,7 @@ let ReactDOM;
 let ReactTestUtils;
 let createReactClass;
 
-describe('create-react-class-integration', () => {
+describe('create-react-class-integration ', () => {
   beforeEach(() => {
     jest.resetModules();
     PropTypes = require('prop-types');
